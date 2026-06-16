@@ -5,15 +5,6 @@ st.image(
     use_container_width=True
 )
 
-# Chỉnh ảnh bo góc
-st.markdown("""
-<style>
-img {
-    border-radius: 15px;
-}
-</style>
-""", unsafe_allow_html=True)
-
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Phạm Thị Như Ngọc")
 
