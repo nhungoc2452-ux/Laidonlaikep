@@ -1,7 +1,7 @@
 import streamlit as st
 # Chèn ảnh
 st.image(
-    "images/anh.jpg",
+    "anh.jpg",
     use_container_width=True
 )
 
